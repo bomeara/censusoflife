@@ -1,6 +1,8 @@
 ## Census of Life
 
-A proposal for NSF's [Idea Machine](https://www.nsf.gov/news/special_reports/nsf2026ideamachine/index.jsp)
+This is my proposal for NSF's [Idea Machine](https://www.nsf.gov/news/special_reports/nsf2026ideamachine/index.jsp). I work in related areas, and have a background in insect systematics, but this is not my expertise: if this inspires you to write a grant, etc. and you want to use ideas from this, go for it! It's a big problem that needs smart people working on it. 
+
+-- [Brian O'Meara](http://www.brianomeara.info)
 
 ## What is the compelling question or challenge? 
 
@@ -40,7 +42,7 @@ For the secondary questions, success comes from freely available products that l
 
 Another spin off success would be moving these technologies and other info into other domains. The same technology that identifies a canid in a camera trap could be used to identify potential insect pest species on imported produce; the same algorithms used to count cacti in the desert could be used to identify homes at risk for wildfire. 
 
-## Why is this the right time to invest in this area? (1000 characters)
+## Why is this the right time to invest in this area?
 
 It has become terrifyingly apparent from recent studies how little we know about actual populations. Disparate fields of science are working on approaches that could address this (machine learning for images and sounds; revolutions in environmental DNA sequencing, remote sensing through drones and satellites). They are all rapidly developing and already have demonstrable utility, but they have not yet ossified into a single standard way to do things. It is thus the perfect time to promote synergy between them. This requires a single, understandable target that appeals to everyone, and a Census of Life is such a target.  
 
